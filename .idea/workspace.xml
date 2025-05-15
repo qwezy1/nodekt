@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96302578-9b8a-4e39-9dc6-a5df648f4a8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend-nodejs-24-web" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-nodejs-24-web/README.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-nodejs-24-web/.env" beforeDir="false" afterPath="$PROJECT_DIR$/backend-nodejs-24-web/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-nodejs-24-web/actor/ProductActor/ProductActor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend-nodejs-24-web/actor/ProductActor/ProductActor.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-nodejs-24-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-nodejs-24-web/package-lock.json" afterDir="false" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747286578492</updated>
-      <workItem from="1747286580411" duration="4434000" />
+      <workItem from="1747286580411" duration="4738000" />
     </task>
     <servers />
   </component>
